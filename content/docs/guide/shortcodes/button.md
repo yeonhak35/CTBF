@@ -9,7 +9,7 @@ A modern, customizable button shortcode with gradient styling, icons, and smart 
 
 ## Basic Usage
 
-{{< button url="/contact" >}}Contact Us{{< /button >}}
+{{< button url="contact" >}}Contact Us{{< /button >}}
 
 {{< button url="https://example.com" new_tab="true" style="secondary" >}}Visit External Site{{< /button >}}
 
