@@ -1,18 +1,22 @@
 ---
-title: Community
+title: Registration
 toc: true
 reading_time: false
 pager: false
 ---
 
-## Support
+## Step 1:Participant Registration Form
+Participants are required to register before taking part in CTBF. Please enter your registration here!
+[Registration Form](https://forms.office.com/r/ev3K96X5Yq/) 
 
-Get support fast. Hugo Blox has the largest Hugo community on Discord, consisting of thousands of creators, developers, and startups.
 
-## Docs
-
+## Step 2: CTBF Liability Waiver Form
+Required Paperwork. In addition to completing the Registration Form (Step 1), participants are required to fill in two other online forms.
 - View the [Hugo Blox Documentation](https://docs.hugoblox.com/)
+- Click here to open the form [Liability Waiver Form](https://na1.documents.adobe.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhC4czPcGSlxYFraow3nsKjxmBf80DGujY3lOzx0FsdXQUf70vrz8_eWiIxNnSBAtbE*)
+- Click here to open the form 2 [Visual/Audio Image Release Form](https://na1.documents.adobe.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhCDByIOSGOfEo0Jhc6S3DAkvobFY5zY-hhi4ApFshZ5_IKKKwKQTNrL9TekHohqzcs*)
 
+ 
 ## Live Chat {#chat}
 
 - Join the [Hugo Blox Online Chat](https://discord.gg/z8wNYzb)
