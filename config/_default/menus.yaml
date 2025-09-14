@@ -20,7 +20,7 @@ weight: 20
 - name: Registration
 url: registration
 weight: 30
-- name: Interns/Volunteers
+- name: Interns
 url: interns
 weight 40
 - name: People
